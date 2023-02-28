@@ -98,7 +98,8 @@ section {
     height: var(--n-height);
     display: flex;
     z-index: 999;
-    background-color: black;
+       background-color: black;
+ 
 }
 
 .navbar .container {
