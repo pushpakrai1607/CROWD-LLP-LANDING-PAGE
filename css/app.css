@@ -162,7 +162,7 @@ section {
 }
 
 #hero{
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(images/project-3.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://www.aandmedu.in/wp-content/uploads/2020/04/Softskills-1.jpg');
  
 }
 
@@ -207,7 +207,7 @@ section {
 /* Hero */
 #hero {
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(images/project-3.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://www.aandmedu.in/wp-content/uploads/2020/04/Softskills-1.jpg');
     background-position: center;
     background-size: cover;
     display: grid;
