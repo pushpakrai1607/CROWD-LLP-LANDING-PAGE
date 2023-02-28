@@ -161,6 +161,11 @@ section {
     transform: translateY(-5px) rotate(-45deg);
 }
 
+#hero{
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(images/project-3.jpg);
+ 
+}
+
 .grid{
     gap: 30px;
 }
@@ -202,7 +207,7 @@ section {
 /* Hero */
 #hero {
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/project-3.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(images/project-3.jpg);
     background-position: center;
     background-size: cover;
     display: grid;
